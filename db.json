@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": "5afc",
+      "name": "VEDA VEERABHADRA HUNASHIGIDAD",
+      "email": "vedahunashigidad11@gmail.com",
+      "password": "abhida1119"
+    },
+    {
+      "id": "0502",
+      "name": "VEDA VEERABHADRA HUNASHIGIDAD",
+      "email": "vedahunashigidad11@gmail.com",
+      "password": "abhida1119"
+    },
+    {
+      "id": "af84",
+      "name": "VEDA VEERABHADRA HUNASHIGIDAD",
+      "email": "vedahunashigidad11@gmail.com",
+      "password": "abhida1119"
+    },
+    {
+      "id": "315a",
+      "name": "VEDA VEERABHADRA HUNASHIGIDAD",
+      "email": "vedahunashigidad11@gmail.com",
+      "password": "abhida1119"
+    },
+    {
+      "id": "c678",
+      "name": "VEDA VEERABHADRA HUNASHIGIDAD",
+      "email": "vedahunashigidad11@gmail.com",
+      "password": "abhida1119"
+    },
+    {
+      "id": "4540",
+      "name": "VEDA VEERABHADRA HUNASHIGIDAD",
+      "email": "vedahunashigidad11@gmail.com",
+      "password": "abhida1119"
+    }
+  ],
+  "todos": [
+    {
+      "id": "7314",
+      "text": "watching spiltsvilla",
+      "done": false
+    }
+  ]
+}
